@@ -83,7 +83,25 @@ body {
 }
 
 /* utilities */
+.text-color-light-gray {
+    color: var(--clr-primary-light-gray)
+}
 
+.text-color-transparent-white {
+    color: var(--clr-primary-white)
+}
+
+.bg-color-orange {
+    background-color: var(--clr-primary-orange);
+}
+
+.bg-color-cyan {
+    background-color: var(--clr-primary-cyan);
+}
+
+.bg-color-dark-cyan {
+    background-color: var(--clr-primary-dark-cyan);
+}
 
 
 /* components */
